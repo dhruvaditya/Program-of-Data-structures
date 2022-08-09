@@ -1,3 +1,11 @@
+
+/*Find the count of numbers less than equal to N having exactly 9 divisors.
+ Input:
+ 100
+ output:
+ 2
+ */
+
 class Solution{   
 public:
     vector <long long> listPrime;
